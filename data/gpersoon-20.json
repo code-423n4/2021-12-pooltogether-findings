@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Continue claiming reqrds after numberOfEpochs are over",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/20"
+}
