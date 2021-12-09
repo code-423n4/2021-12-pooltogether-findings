@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "simplify require in _requirePromotionActive()",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/19"
+}
