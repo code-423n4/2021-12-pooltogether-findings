@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "johnnycash",
+  "address": "0x3a64B3ceA5E4bfe773b3522f0A0eE37c42dDF2ba",
+  "risk": "3",
+  "title": "Rewards can be claimed multiple times",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/3"
+}
