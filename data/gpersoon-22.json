@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "Steal the reward tokens from another promotion",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/22"
+}
