@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "cancelPromotion is too rigorous",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/23"
+}
