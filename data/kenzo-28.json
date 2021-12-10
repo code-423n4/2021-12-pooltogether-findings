@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "2",
+  "title": "Promotion creator can't cancel promotion before it has begun",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/28"
+}
