@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "1",
+  "title": "Inconsistent definition of when an epoch ends",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/54"
+}
