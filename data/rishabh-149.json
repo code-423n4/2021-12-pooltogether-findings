@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "rishabh",
+  "address": "0xaf55d73461836577FEEbe04Ca5CFFFD1918B345C",
+  "risk": "3",
+  "title": "No restriction on epocsDuration can lead to attacker gaining extra money",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/149"
+}
