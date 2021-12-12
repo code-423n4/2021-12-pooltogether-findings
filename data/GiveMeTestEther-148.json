@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "3",
+  "title": "TwabRewards: cancelPromotion() can revert if a promotion tokens applies fee on transfer",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/148"
+}
