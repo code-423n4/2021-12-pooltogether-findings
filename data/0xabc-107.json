@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "0xabc",
+  "address": "0xF3a6a14234b8A728aF7bBaaED2Ea6d4f951ea0Be",
+  "risk": "3",
+  "title": "Drain the award pool by feeding outrange epoch into function claimRewards",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/107"
+}
