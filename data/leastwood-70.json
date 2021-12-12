@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "leastwood",
+  "address": "0xeD7DF3fA78052060e76b5E12e1f76Cef2BB65d26",
+  "risk": "2",
+  "title": "Missing Check When Transferring Tokens Out For A Given Promotion",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/70"
+}
