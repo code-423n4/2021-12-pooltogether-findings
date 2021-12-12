@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "0xabc",
+  "address": "0xF3a6a14234b8A728aF7bBaaED2Ea6d4f951ea0Be",
+  "risk": "G",
+  "title": "Unnecessary check for _promotionEndTimestamp",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/76"
+}
