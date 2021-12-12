@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "3",
+  "title": "Can claim epoch > 255 repeatedly due to bitshift truncation",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/74"
+}
