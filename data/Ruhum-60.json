@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "Ruhum",
+  "address": "0xC3e61F4ef0a95E616F75f94D5b6A358bD9DC18ac",
+  "risk": "3",
+  "title": "User can withdraw more rewards than expected by moving their tickets to a different wallet within an epoch",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/60"
+}
