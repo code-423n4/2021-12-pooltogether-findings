@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether TwabRewards contest",
+  "handle": "0x421f",
+  "address": "0x421f0897F2E07462b5A7B994AbF8AE758DD0DD70",
+  "risk": "0",
+  "title": "Suggestion : To add explicit check for no of epochs to be 255 in createPromotion and extendPromotion",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2021-12-pooltogether-findings/issues/147"
+}
