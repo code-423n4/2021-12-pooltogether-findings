@@ -1,3 +1,11 @@
+---
+sponsor: "PoolTogether"
+slug: "2021-12-pooltogether"
+date: "2022-02-03"  
+title: "PoolTogether TwabRewards contest"
+findings: "https://github.com/code-423n4/2021-12-pooltogether-findings/issues"
+contest: 64
+---
 
 # Overview
 
